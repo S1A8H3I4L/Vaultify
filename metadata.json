@@ -1,0 +1,5 @@
+{
+  "name": "Vaultify",
+  "description": "A secure, enterprise-grade cloud storage platform inspired by Google Drive, featuring real-time file management, AI-powered organization assistance, and visual storage analytics.",
+  "requestFramePermissions": []
+}
